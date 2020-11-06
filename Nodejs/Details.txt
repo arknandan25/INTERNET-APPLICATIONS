@@ -1,0 +1,4 @@
+Node.js is a javascript runtime built on chrome's V8 javascript engine. V8 is written in C++. 
+Node is basically js on the server, and is used to build fast, powerful and scalable applications.
+Uses event driven and non blocking IO; works on a single thread using non blocking IO and supports thousands of concurrent connections simultaneously
+In comparison to PHP and Apache based server where each connection uses a different thread thus eventually leading to heavy consumption of system memory.

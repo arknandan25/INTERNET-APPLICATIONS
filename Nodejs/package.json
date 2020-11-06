@@ -1,0 +1,11 @@
+{
+  "name": "nodeapp1",
+  "version": "1.0.0",
+  "description": "Simple Node App",
+  "main": "test2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ark Chauhan",
+  "license": "ISC"
+}
